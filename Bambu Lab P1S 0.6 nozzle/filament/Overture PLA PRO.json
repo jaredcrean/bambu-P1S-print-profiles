@@ -1,0 +1,30 @@
+{
+    "filament_cost": [
+        "18.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "13"
+    ],
+    "filament_settings_id": [
+        "Overture PLA PRO"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Overture PLA @BBL X1C",
+    "name": "Overture PLA PRO",
+    "nozzle_temperature_initial_layer": [
+        "222"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "1.9.0.18"
+}

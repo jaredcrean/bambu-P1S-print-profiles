@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "Bambu PETG Translucent @BBL X1C - Copy"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Translucent @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambu PETG Translucent @BBL X1C - Copy",
+    "nozzle_temperature": [
+        "246"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.9.0.14"
+}

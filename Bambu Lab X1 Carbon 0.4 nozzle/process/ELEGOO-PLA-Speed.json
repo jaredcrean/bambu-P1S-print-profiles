@@ -1,0 +1,22 @@
+{
+    "bottom_surface_pattern": "zig-zag",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_infill_speed": "140",
+    "initial_layer_speed": "105",
+    "layer_height": "0.28",
+    "name": "ELEGOO-PLA-Speed",
+    "outer_wall_speed": "140",
+    "print_settings_id": "ELEGOO-PLA-Speed",
+    "seam_slope_type": "external",
+    "sparse_infill_density": "30%",
+    "sparse_infill_pattern": "honeycomb",
+    "support_on_build_plate_only": "1",
+    "support_type": "tree(auto)",
+    "top_surface_pattern": "zig-zag",
+    "top_surface_speed": "140",
+    "version": "1.9.0.18",
+    "wall_loops": "3",
+    "wall_sequence": "inner-outer-inner wall"
+}

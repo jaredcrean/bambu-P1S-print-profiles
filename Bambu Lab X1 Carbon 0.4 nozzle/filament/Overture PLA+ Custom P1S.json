@@ -1,0 +1,46 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "22.99"
+    ],
+    "filament_flow_ratio": [
+        "0.9878"
+    ],
+    "filament_settings_id": [
+        "Overture PLA+ Custom P1S"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Overture Matte PLA @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Overture PLA+ Custom P1S",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "190"
+    ],
+    "pressure_advance": [
+        "0.028"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "temperature_vitrification": [
+        "60"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "1.9.0.14"
+}

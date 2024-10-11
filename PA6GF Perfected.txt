@@ -1,0 +1,92 @@
+###I used the textured plate with Purple Glue Stick
+
+Printer Tab
+Under Extruder-Change Z Hop Type To Normal
+
+Filament Tab
+Do Flow Dynamics and make sure to input the result under this tab and check Pressure advance.  Do the flow rate test (The full test, not the Fine Calibration Option) and also Input That result under this Tab.  It often doesn't auto update so make sure you save it yourself.  For Flow Rate you want the number to be clearly visible and the overall surface smooth with no over or under extrusion.  The results will be different for each printer, don't just copy someone else's, it can damage your printer.
+
+Set Chamber Temp To 50 and make sure active temp control is checked
+Change Nozzle Temp To 290.
+Change Bed Temp To 50 For First Layer and 50 For Other Layers
+Max Volumetric Speed 6 mm/s
+
+Cooling
+NO Cooling For The First 1000
+Full Fan Speed 1000
+Min Fan Speed Threshold Fan Speed 0% Layer Time 100
+Slow Printing Down For Better Layer Cooling Checked
+Force Cooling For overhangs and bridges Checked
+Activate Air Filtration Checked
+During print 30
+After Print 701
+
+Setting Overrides
+Retract On layer change Checked
+Wipe While Retracting Checked
+
+Process 
+Layer Height 0.15 Both settings
+Line width 0.4 for all
+Seam Aligned
+Staggered Seams Checked
+Seam Gap 6%
+Role Base wipe Speed Checked
+Wipe on Loops Checked
+Wipe before external loop Checked
+Slice gap closing radius 0.001
+Resolution 0.001
+Arc Fitting Checked
+Precise Wall Checked
+Precise Z Height Checked
+Wall Generator Arachne
+Only One Wall On Top Surfaces Checked
+Avoid Crossing Walls Checked
+Small Area Flow Compensation Checked
+Thick Internal Bridges Checked
+Detect Overhang Walls Checked
+Extra Perimeters Checked
+Reverse On Odd Checked
+Reverse Only Internal Perimeters Checked
+Reverse Threshold 0%
+
+Strength
+Wall Loops 5
+Top Surface Pattern Concentric
+Top Shell Layers 5
+Top Shell Thickness 1
+Bottom Surface Pattern Concentric
+Bottom Shell Layers 4
+Bottom Shell Thickness 0
+Sparse Infill Density 100%
+Sparse Infill Pattern Gyroid
+Internal Solid Infill Pattern Aligned Rectilinear
+Apply Gap Fill Everywhere
+Infill Combination Unchecked
+Detect Narrow Internal Solid Infill Checked
+Ensure Vertical Shell Thickness Checked
+
+Speed
+Number of Sl0w Layers 5
+
+Other layers Speed
+Outer Wall 50
+Top Surface 50
+Support Interface 20
+
+Overhang Speed
+Slow down for overhangs Checked
+Slow Down For Curled Perimeters Checked
+
+
+Support
+Tree (Manual)
+Style Organic
+On Build Plate Only Checked
+Remove Small Overhangs Unchecked
+Top and bottom Z Distance 0.1
+Base Pattern Honeycomb 
+Top and Bottom Interface layers 4
+Interface Pattern Grid
+Support/Object x/y Distance 1.3
+

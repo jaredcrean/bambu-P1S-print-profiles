@@ -1,0 +1,52 @@
+{
+    "default_filament_colour": [
+        "#61606C"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "28.99"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_max_volumetric_speed": [
+        "4.2"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Overture TPU Custom"
+    ],
+    "filament_start_gcode": [
+        "; filament start gcode\n{if (bed_temperature[current_extruder] >40)||(bed_temperature_initial_layer[current_extruder] >40)}M106 P3 S255\n{elsif (bed_temperature[current_extruder] >30)||(bed_temperature_initial_layer[current_extruder] >30)}M106 P3 S180\n{endif}"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "40"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "40"
+    ],
+    "inherits": "Generic TPU",
+    "is_custom_defined": "0",
+    "name": "Overture TPU Custom",
+    "pressure_advance": [
+        "0.024"
+    ],
+    "temperature_vitrification": [
+        "60"
+    ],
+    "textured_plate_temp": [
+        "40"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "40"
+    ],
+    "version": "1.9.0.14"
+}

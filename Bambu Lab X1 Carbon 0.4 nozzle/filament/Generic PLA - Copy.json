@@ -1,0 +1,49 @@
+{
+    "default_filament_colour": [
+        "#0080C0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "22.99"
+    ],
+    "filament_flow_ratio": [
+        "0.98784"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "Generic PLA - Copy"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Generic PLA - Copy",
+    "pressure_advance": [
+        "0.028"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "temperature_vitrification": [
+        "60"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.9.0.14"
+}

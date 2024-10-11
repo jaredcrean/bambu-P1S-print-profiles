@@ -1,0 +1,30 @@
+{
+    "filament_settings_id": [
+        "Bambu PETG Basic @BBL X1C - Copy"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PETG Basic @BBL X1C",
+    "name": "Bambu PETG Basic @BBL X1C - Copy",
+    "nozzle_temperature": [
+        "275"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "275"
+    ],
+    "nozzle_temperature_range_high": [
+        "280"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.9.0.18"
+}

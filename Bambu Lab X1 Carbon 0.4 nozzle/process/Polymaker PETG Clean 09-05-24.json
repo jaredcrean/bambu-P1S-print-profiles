@@ -1,0 +1,15 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "inner_wall_speed": "160",
+    "name": "Polymaker PETG Clean 09-05-24",
+    "outer_wall_speed": "160",
+    "print_settings_id": "Polymaker PETG Clean 09-05-24",
+    "reduce_crossing_wall": "1",
+    "seam_slope_type": "all",
+    "sparse_infill_density": "20%",
+    "sparse_infill_pattern": "gyroid",
+    "top_shell_layers": "3",
+    "version": "1.9.0.23",
+    "wall_loops": "3"
+}

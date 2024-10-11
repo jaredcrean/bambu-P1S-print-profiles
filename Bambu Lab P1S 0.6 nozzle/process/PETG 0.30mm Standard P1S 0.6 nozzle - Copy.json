@@ -1,0 +1,19 @@
+{
+    "bottom_surface_pattern": "zig-zag",
+    "from": "User",
+    "inherits": "0.30mm Standard @BBL X1C 0.6 nozzle",
+    "inner_wall_speed": "130",
+    "internal_solid_infill_pattern": "zig-zag",
+    "is_custom_defined": "0",
+    "name": "PETG 0.30mm Standard P1S 0.6 nozzle - Copy",
+    "outer_wall_speed": "125",
+    "print_settings_id": "PETG 0.30mm Standard P1S 0.6 nozzle - Copy",
+    "seam_slope_type": "all",
+    "skirt_loops": "1",
+    "sparse_infill_density": "25%",
+    "sparse_infill_pattern": "cubic",
+    "sparse_infill_speed": "150",
+    "top_surface_pattern": "zig-zag",
+    "top_surface_speed": "125",
+    "version": "1.9.0.14"
+}

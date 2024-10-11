@@ -1,0 +1,13 @@
+{
+    "filament_flow_ratio": [
+        "0.9898"
+    ],
+    "filament_settings_id": [
+        "Bambu PLA Matte Flow Cal"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Matte @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambu PLA Matte Flow Cal",
+    "version": "1.9.0.14"
+}

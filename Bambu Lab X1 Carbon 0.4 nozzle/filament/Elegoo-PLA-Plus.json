@@ -1,0 +1,60 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "12.75"
+    ],
+    "filament_flow_ratio": [
+        "0.950208"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "Elegoo-PLA-Plus"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "62"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "62"
+    ],
+    "inherits": "Generic PLA",
+    "name": "Elegoo-PLA-Plus",
+    "nozzle_temperature": [
+        "223"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "textured_plate_temp": [
+        "62"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "62"
+    ],
+    "version": "1.9.0.18"
+}

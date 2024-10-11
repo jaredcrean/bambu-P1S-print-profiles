@@ -1,0 +1,21 @@
+{
+    "bottom_shell_layers": "6",
+    "bottom_shell_thickness": "1",
+    "bottom_surface_pattern": "zig-zag",
+    "enable_support": "1",
+    "from": "User",
+    "infill_wall_overlap": "20%",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "layer_height": "0.15",
+    "name": "Overture PLA PRO",
+    "print_settings_id": "Overture PLA PRO",
+    "seam_slope_type": "all",
+    "skirt_loops": "1",
+    "sparse_infill_density": "85%",
+    "sparse_infill_pattern": "zig-zag",
+    "support_on_build_plate_only": "1",
+    "top_shell_layers": "6",
+    "top_surface_pattern": "zig-zag",
+    "version": "1.9.0.18",
+    "wall_loops": "6"
+}

@@ -1,0 +1,43 @@
+{
+    "additional_cooling_fan_speed": [
+        "90"
+    ],
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "19.99"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "Bambu PETG Basic P1S 0.6 nozzle"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "Bambu PETG Basic @BBL X1C 0.8 nozzle",
+    "is_custom_defined": "0",
+    "name": "Bambu PETG Basic P1S 0.6 nozzle",
+    "slow_down_layer_time": [
+        "6"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.9.0.14"
+}

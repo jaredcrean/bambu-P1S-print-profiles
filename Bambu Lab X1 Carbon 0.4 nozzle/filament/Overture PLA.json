@@ -1,0 +1,15 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "13"
+    ],
+    "filament_settings_id": [
+        "Overture PLA"
+    ],
+    "from": "User",
+    "inherits": "Overture PLA @BBL X1C",
+    "name": "Overture PLA",
+    "version": "1.9.0.14"
+}

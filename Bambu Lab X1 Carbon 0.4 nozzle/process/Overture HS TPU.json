@@ -1,0 +1,17 @@
+{
+    "bottom_shell_layers": "2",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "internal_solid_infill_pattern": "monotonicline",
+    "layer_height": "0.16",
+    "name": "Overture HS TPU",
+    "print_settings_id": "Overture HS TPU",
+    "reduce_crossing_wall": "1",
+    "seam_slope_type": "external",
+    "sparse_infill_pattern": "cubic",
+    "top_shell_layers": "2",
+    "top_surface_pattern": "monotonic",
+    "version": "1.9.0.20",
+    "wall_generator": "arachne",
+    "wall_sequence": "inner-outer-inner wall"
+}

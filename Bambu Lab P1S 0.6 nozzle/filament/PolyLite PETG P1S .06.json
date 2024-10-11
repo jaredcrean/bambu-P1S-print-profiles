@@ -1,0 +1,73 @@
+{
+    "additional_cooling_fan_speed": [
+        "90"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "20"
+    ],
+    "fan_max_speed": [
+        "20"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_cost": [
+        "16.99"
+    ],
+    "filament_flow_ratio": [
+        "0.9702"
+    ],
+    "filament_max_volumetric_speed": [
+        "17"
+    ],
+    "filament_retraction_length": [
+        "2"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "PolyLite PETG P1S .06"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "PolyLite PETG @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "PolyLite PETG P1S .06",
+    "nozzle_temperature": [
+        "263"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "263"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.035"
+    ],
+    "slow_down_layer_time": [
+        "6"
+    ],
+    "textured_plate_temp": [
+        "77"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "77"
+    ],
+    "version": "1.9.0.14"
+}

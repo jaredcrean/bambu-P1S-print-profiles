@@ -1,0 +1,33 @@
+{
+    "filament_cost": [
+        "24.99"
+    ],
+    "filament_flow_ratio": [
+        "0.957"
+    ],
+    "filament_settings_id": [
+        "PolyLite PETG @BBL P1S"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "PolyLite PETG @BBL X1C",
+    "name": "PolyLite PETG @BBL P1S",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.9.0.18"
+}

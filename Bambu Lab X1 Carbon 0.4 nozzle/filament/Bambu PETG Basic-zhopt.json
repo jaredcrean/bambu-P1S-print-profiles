@@ -1,0 +1,54 @@
+{
+    "default_filament_colour": [
+        "#1A5FB4"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_long_retractions_when_cut": [
+        "nil"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_settings_id": [
+        "Bambu PETG Basic-zhopt"
+    ],
+    "filament_z_hop": [
+        "0.6"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Basic @BBL X1C",
+    "name": "Bambu PETG Basic-zhopt",
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "80"
+    ],
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "10"
+    ],
+    "slow_down_min_speed": [
+        "20"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.9.0.18"
+}

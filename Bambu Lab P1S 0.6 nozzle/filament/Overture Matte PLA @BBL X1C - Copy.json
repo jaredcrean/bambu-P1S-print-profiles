@@ -1,0 +1,12 @@
+{
+    "filament_settings_id": [
+        "Overture Matte PLA @BBL X1C - Copy"
+    ],
+    "from": "User",
+    "inherits": "Overture Matte PLA @BBL X1C",
+    "name": "Overture Matte PLA @BBL X1C - Copy",
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.9.0.23"
+}

@@ -1,0 +1,18 @@
+{
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_settings_id": [
+        "Overture Matte PLA P1S Custom"
+    ],
+    "from": "User",
+    "inherits": "Overture Matte PLA @BBL X1C",
+    "name": "Overture Matte PLA P1S Custom",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "version": "1.9.0.23"
+}

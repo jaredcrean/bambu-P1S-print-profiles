@@ -1,0 +1,33 @@
+{
+    "fan_max_speed": [
+        "40"
+    ],
+    "filament_flow_ratio": [
+        "1.01"
+    ],
+    "filament_settings_id": [
+        "OVERTURE PETG Translucent"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG Translucent @BBL X1C",
+    "name": "OVERTURE PETG Translucent",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "265"
+    ],
+    "textured_plate_temp": [
+        "85"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "85"
+    ],
+    "version": "1.9.0.18"
+}

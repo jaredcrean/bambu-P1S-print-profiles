@@ -1,0 +1,60 @@
+{
+    "default_filament_colour": [
+        "#70A900"
+    ],
+    "fan_max_speed": [
+        "75"
+    ],
+    "fan_min_speed": [
+        "45"
+    ],
+    "filament_cost": [
+        "24.99"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "PolyLite PETG dark green P1S"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "80"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "80"
+    ],
+    "inherits": "PolyLite PETG @BBL X1C",
+    "name": "PolyLite PETG dark green P1S",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "nozzle_temperature_range_high": [
+        "280"
+    ],
+    "overhang_fan_speed": [
+        "80"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "textured_plate_temp": [
+        "80"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "80"
+    ],
+    "version": "1.9.0.18"
+}

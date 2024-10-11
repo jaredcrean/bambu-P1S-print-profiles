@@ -1,0 +1,27 @@
+{
+    "filament_cost": [
+        "24.99"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "6"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "Overture HS TPU 95A"
+    ],
+    "filament_z_hop": [
+        "0.6"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Bambu TPU 95A @BBL X1C",
+    "name": "Overture HS TPU 95A",
+    "version": "1.9.0.20"
+}

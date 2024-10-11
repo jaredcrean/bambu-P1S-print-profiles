@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "Bambu PETG-CF @BBL X1C - Copy"
+    ],
+    "from": "User",
+    "inherits": "Bambu PETG-CF @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "Bambu PETG-CF @BBL X1C - Copy",
+    "version": "1.9.0.23"
+}
